@@ -1,0 +1,49 @@
+.SearchBar{
+    display: flex;
+    position: static;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    height: 50px;
+    background-color: #c92c24ec;
+}
+
+.logo-search{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon1{
+    height: 50px;
+    width: 80px;
+    height: 50px;
+}
+
+.icon2Fundoo{
+    height: 35px;
+    width: 250px;
+}
+.icon3{
+    height: 35px;
+    width: 90px;
+}
+.logo-search1{
+    height: 35px;
+    width: 600px;
+}
+.div2{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.ico1{
+    height: 40px;
+    width: 100px;
+    width: 2em;
+}
